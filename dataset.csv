@@ -1,0 +1,26 @@
+Bin ID,Location,Current Fill (%),Time (Hour)
+1,Market Area,78,10
+2,Residential A,45,9
+3,Residential B,62,11
+4,Bus Stand,91,12
+5,Railway Station,95,13
+6,School Zone,55,10
+7,Hospital Area,88,11
+8,Mall Road,72,14
+9,Office Area,67,15
+10,Park Area,40,16
+11,Market Area,83,17
+12,Residential C,58,18
+13,Bus Stop,76,19
+14,Shopping Complex,92,20
+15,College Area,69,11
+16,Food Street,97,21
+17,Industrial Area,81,8
+18,Apartment Block,52,7
+19,Temple Area,74,6
+20,Tourist Spot,89,14
+21,Highway,66,15
+22,Slum Area,93,16
+23,IT Park,60,13
+24,Cinema Hall,85,19
+25,Stadium,79,18
